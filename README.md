@@ -20,7 +20,7 @@
 ## Descripción del juego
 ## Un día por Jaén
 
-	En este juego, eres una persona normal y corriente que decide en su día libre hacer algo distinto y salir con su pareja
+En este juego, eres una persona normal y corriente que decide en su día libre hacer algo distinto y salir con su pareja
 por la increíble ciudad de Jaén. En este juego, tu tomas el control de las distintas decisiones, tienes la gran responsabilidad
 de que al final de este juego, nuestra entrañable pareja haya pasado un maravilloso día o un día no tan bueno...
 
@@ -39,6 +39,6 @@ de que al final de este juego, nuestra entrañable pareja haya pasado un maravil
 
 ## Capturas en la app Telegram
 **vinculación con Trello**
-![Imagen del bot de trello](imagenes/trello.jpg)
+![Imagen del bot de trello](imagenes/trello.jpeg)
 **vinculación con GitHub**
-![Imagen del bot de GitHub](imagenes/github.jpg)
+![Imagen del bot de GitHub](imagenes/github.jpeg)
