@@ -3,7 +3,9 @@
 ## Índice
 
 * [Autor](#autor)
-
+* [Descripción del juego](#descripción-del-juego)
+* [Capturas de pantalla del tablero Trello](#capturas-de-pantalla-del-tablero-trello)
+* [Capturas en la app telegram](#capturas-en-la-app-telegram)
 
 ## Autor
 
@@ -15,58 +17,28 @@
 
 
 
-## Deploying
+## Descripción del juego
+## Un día por Jaén
 
-To deploy your game, just upload your HTML file and the `media` folder
-to your webserver. You can serve several games with the same look and
-feel from the same directory. You need a different HTML file for each
-game, and each one should load the correct `.game.js` file at the
-end. Add any media you need for your game (images, audio, video), and
-the remaining files will be reused.
-
-For example, if you had 3 games: `episode1`, `episode2`, and
-`christmas-special`. You'd have a directory structure:
-
-    episode1.html
-    episode2.html
-    christmas-special.html
-    media/
-        css/ ...
-        img/ ...
-        js/
-            jquery-1.4.2.min.js
-            undum.js
-        games/
-            episode1/
-                episode1.game.js
-                ... media for episode 1 ...
-            episode2/
-                episode2.game.js
-                ... media for episode 1 ...
-            christmas-special/
-                christmas-special.game.js
-                ... media for christmas special ...
-
-This assumes you use the same directory lay out that I do. You are
-welcome to change things around, of course, as long as you work and
-change the references.
+	En este juego, eres una persona normal y corriente que decide en su día libre hacer algo distinto y salir con su pareja
+por la increíble ciudad de Jaén. En este juego, tu tomas el control de las distintas decisiones, tienes la gran responsabilidad
+de que al final de este juego, nuestra entrañable pareja haya pasado un maravilloso día o un día no tan bueno...
 
 
-## Undum
+## Capturas de pantalla del tablero Trello
 
-The name `undum` came from a little project that preceded this code
-base. In 2008 I put together a simple browser based game. It was
-narrative, but used the grind-based mechanics of games such as
-Farmville and Mafia Wars. Because of the grinding, I called it
-Carborundum, which I found I couldn't type at speed, so it became
-Undum. The code has changed out of all recognition since them, as the
-grind-based game moved to Flash. But the name stuck for the Javascript
-framework.
+**al principio del proyecto**
+![Imagen del tablero al comenzar](imagenes/inicio.png)
+
+**a mitad del proyecto**
+![Imagen del tablero a la mitad](imagenes/mitad.png)
+
+**al final del proyecto**
+![Imagen del tablero a la mitad](imagenes/final.png)
 
 
-## License
-
-The code, documentation, styles, design and images are all distributed
-under the MIT license. This permits you to modify and use them, even
-for commercial use. A copy of the MIT license is found in the LICENSE
-file.
+## Capturas en la app Telegram
+**vinculación con Trello**
+![Imagen del bot de trello](imagenes/trello.jpg)
+**vinculación con GitHub**
+![Imagen del bot de GitHub](imagenes/github.jpg)
