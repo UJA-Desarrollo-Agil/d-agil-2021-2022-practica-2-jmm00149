@@ -1,12 +1,20 @@
-body {
-    background: #170804 url("../img/page_bg.jpg") repeat-x left top;
+/*body {
+    background: #170804 url("../img/jaen.jpg") repeat-x left top;
+	
     font-family: Palatino, Times, "Times New Roman", serif;
-    font-size: 18px;
+    font-size: cover;
     line-height: 1.6em;
     background-attachment: fixed;
     overflow-y: scroll;
 }
-
+*/
+body{
+background: #170804 url("../img/jaen2.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
 /* Basic structure */
 #page {
     margin: 0 auto;
@@ -22,7 +30,7 @@ body {
 }
 #title {
     max-width: 28em;
-    background: #e6e6c6 url("../img/title_bg.jpg") repeat -1.1em -1.1em;
+    background: #e6e6c6 url("../img/jaen.jpeg") repeat -1.1em -1.1em;
     margin: 2.2em auto 1.1em auto;
     padding: 1.7em;
     border: 1.1em solid rgba(0,0,0,0.25);
