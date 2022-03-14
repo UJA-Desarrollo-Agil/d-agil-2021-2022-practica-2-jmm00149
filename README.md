@@ -38,7 +38,9 @@ de que al final de este juego, nuestra entrañable pareja haya pasado un maravil
 
 
 ## Capturas en la app Telegram
+
 **vinculación con Trello**
 ![Imagen del bot de trello](imagenes/trello.jpeg)
+
 **vinculación con GitHub**
 ![Imagen del bot de GitHub](imagenes/github.jpeg)
